@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+.headerclass{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+
+img {align-items: center;}
+
+.bild  {text-align: center;}
+
+
+body {background-color: beige;}
+
+h1 {color: darkblue; font-family: 'Chilanka', cursive;}
+h3 {color: darkblue; font-family: 'Lato', sans-serif;}
+
+nav {background-color: darkred;
+width: 12%; height: 20vh}
+
+nav ul li a {
+    text-decoration: none;
+    color: darkblue;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+nav ul {margin-top: 4px }
+
+p {color: darkblue; font-family: 'Lato', sans-serif; }
